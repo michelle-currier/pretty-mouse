@@ -45,7 +45,12 @@ export default function TrailPage() {
         }}
         className={styles.container}
       >
-        <img ref={img} className={styles.img} src="/smiley.svg"></img>
+        <img
+          ref={img}
+          className={styles.img}
+          src="/smiley.svg"
+          alt="smiley"
+        ></img>
       </div>
     </div>
   );

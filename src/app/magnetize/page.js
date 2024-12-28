@@ -27,8 +27,8 @@ export default function Home() {
             setIsHovered(false);
           }}
         >
-          A visual designer - with skills that haven't been replaced by A.I
-          (yet) - making good shit only if the paycheck is equally good.
+          A visual designer - with skills that haven't been replaced by A.I yet
+          - making good shit only if the paycheck is equally good.
         </p>
       </motion.div>
 
