@@ -27,14 +27,14 @@ export default function Home() {
             setIsHovered(false);
           }}
         >
-          A visual designer - with skills that haven't been replaced by A.I yet
-          - making good shit only if the paycheck is equally good.
+          A visual designer - with skills that have not been replaced by A.I
+          (yet) - making good shit only if the paycheck is equally good.
         </p>
       </motion.div>
 
       <div className={styles.body}>
         <p>
-          I'm a <span>selectively skilled</span> product designer with strong
+          I am a <span>selectively skilled</span> product designer with strong
           focus on producing high quality & impactful digital experience.
         </p>
       </div>
