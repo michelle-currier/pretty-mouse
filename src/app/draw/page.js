@@ -46,7 +46,12 @@ export default function TrailPage() {
         className={styles.container}
       >
         <p>Go ahead a draw something!</p>
-        <img ref={img} className={styles.img} src="/circle.svg"></img>
+        <img
+          ref={img}
+          className={styles.img}
+          src="/circle.svg"
+          alt="circle for the mouse"
+        ></img>
       </div>
     </div>
   );
