@@ -34,8 +34,8 @@ export default function Home() {
 
       <div className={styles.body}>
         <p>
-          I am a <span>selectively skilled</span> product designer with strong
-          focus on producing high quality & impactful digital experience.
+          I am a selectively skilled product designer with strong focus on
+          producing high quality & impactful digital experience.
         </p>
       </div>
     </main>
