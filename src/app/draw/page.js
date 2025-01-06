@@ -2,7 +2,7 @@
 import styles from "./Draw.module.css";
 import { useRef } from "react";
 
-export default function TrailPage() {
+export default function DrawPage() {
   const container = useRef();
   const img = useRef();
 
